@@ -1,8 +1,10 @@
 {
- "version" : 210302,
+ "version" : 210402,
  "version_code": "21.04.02",
  "update": 1,
  "file_name" : "ZaloSetup-21.3.3.dmg",
  "sha2" : "f2816b001e13ac98a65a1f5721333372681038068543ec40507aa1b9167f47e2",
- "url" : "https://res-download-pc-te-vnso-qt-3.zadn.vn/mac/ZaloSetup-21.3.3.dmg"
+ "url" : "https://res-download-pc-te-vnso-qt-3.zadn.vn/mac/ZaloSetup-21.3.3.dmg",
+ "changeLogs" : "changeLogs abc ne akio",
+ "notes" : "notes notes notes notes notes notes"
 }
